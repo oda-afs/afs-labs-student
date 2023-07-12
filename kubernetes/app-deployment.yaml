@@ -23,6 +23,6 @@ spec:
         - secretRef:
             name: db-secret
         name: app-deployment
-        image: docker pull registry.dev.afsmtddso.com/osasaimufua-harbor-project/app:971c881-837d882
+        image: registry.dev.afsmtddso.com/osasaimufua-harbor-project/app:971c881-837d882
         ports:
         - containerPort: 5000
