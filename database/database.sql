@@ -1,3 +1,4 @@
+--Comments
 --
 -- PostgreSQL database dump
 --
